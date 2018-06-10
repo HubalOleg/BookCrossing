@@ -1,6 +1,20 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+<<<<<<< Original<<<<<<< Original<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <application>
-        <activity android:name="com.oleg.hubal.bookcrossing.auth.AuthActivity"/>
-    </application>
+<application>
+    <activity android:name="com.oleg.hubal.bookcrossing.auth.AuthActivity" />
+</application>
 </manifest>
+
+    =======<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+<application>
+    <activity android:name="com.oleg.hubal.bookcrossing.splash.SplashActivity" />
+</application>
+</manifest>>>>>>>> Added
+
+    =======<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+<application>
+    <activity android:name="com.oleg.hubal.bookcrossing.main.MainActivity" />
+</application>
+</manifest>>>>>>>> Added

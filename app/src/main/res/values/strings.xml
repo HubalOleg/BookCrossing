@@ -1,13 +1,19 @@
 <resources>
     <string name="app_name">BookCrossing</string>
     <string name="app_title">Book Crossing</string>
+
     <string name="enter_email">Enter E-Mail</string>
     <string name="enter_password">Enter Password</string>
     <string name="login_sign_in">SIGN IN</string>
     <string name="login_sign_up">SIGN UP</string>
     <string name="btn_register">REGISTER</string>
+
     <string name="error_authentication">Authentication failed</string>
     <string name="error_registration">Registration failed</string>
     <string name="error_invalid_password">Password is too short</string>
     <string name="error_invalid_email">Invalid email</string>
+
+    <string name="navigation_profile">Profile</string>
+    <string name="navigation_library">Library</string>
+    <string name="navigation_search">Search</string>
 </resources>

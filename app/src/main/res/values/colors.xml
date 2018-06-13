@@ -5,4 +5,9 @@
     <color name="colorAccent">#03A9F4</color>
 
     <color name="colorWhiteTransparent">#ccffffff</color>
+    <color name="colorPrimaryDarkPressed">#36464e</color>
+    <color name="colorPrimaryLight">#99b5c2</color>
+    <color name="colorPrimaryWhite">#c5d7df</color>
+
+
 </resources>

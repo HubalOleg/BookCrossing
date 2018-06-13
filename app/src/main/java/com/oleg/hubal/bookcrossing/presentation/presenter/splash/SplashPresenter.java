@@ -4,7 +4,6 @@ package com.oleg.hubal.bookcrossing.presentation.presenter.splash;
 import android.os.Handler;
 import android.support.annotation.NonNull;
 import android.text.TextUtils;
-import android.util.Log;
 
 import com.arellomobile.mvp.InjectViewState;
 import com.arellomobile.mvp.MvpPresenter;
@@ -52,8 +51,6 @@ public class SplashPresenter extends MvpPresenter<SplashView> {
     private void CheckIsUserLoggedIn() {
         String email = mAppPrefs.getEmail();
         String password = mAppPrefs.getPassword();
-
-        Log.e("Tag", "EmailPass: " + email + " " + password);
 
         if (TextUtils.isEmpty(email) || TextUtils.isEmpty(password)) {
             getViewState().StartAuthActivity();

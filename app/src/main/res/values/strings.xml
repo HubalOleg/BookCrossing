@@ -16,4 +16,13 @@
     <string name="navigation_profile">Profile</string>
     <string name="navigation_library">Library</string>
     <string name="navigation_search">Search</string>
+    <string name="error_empty_field">This field is required</string>
+    <string name="error_choose_book_photo">Choose book photo</string>
+    <string name="intent_select_picture">Select Picture</string>
+    <string name="error_server_internal">Internal server error</string>
+    <string name="dialog_upload">Image Uploading</string>
+    <string name="dialog_wait">Please wait…</string>
+    <string name="card_year_title">Year:</string>
+    <string name="card_author_title">Author:</string>
+    <string name="card_name_title">Name:</string>
 </resources>
